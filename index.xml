@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YD的博客</title>
-    <link>uildDrafts/</link>
+    <link>https://lydz134.github.io/</link>
     <description>Recent content on YD的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2019 20:21:14 +0800</lastBuildDate>
     
-	<atom:link href="uildDrafts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lydz134.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Firstblog</title>
+      <link>https://lydz134.github.io/post/firstblog/</link>
+      <pubDate>Thu, 15 Aug 2019 20:21:14 +0800</pubDate>
+      
+      <guid>https://lydz134.github.io/post/firstblog/</guid>
+      <description>我的第一篇文章 正文</description>
+    </item>
     
   </channel>
 </rss>
